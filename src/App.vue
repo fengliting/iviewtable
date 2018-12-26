@@ -31,10 +31,10 @@ export default {
               }
           ],
           Types:[
-              { value: '0', name: 'hhh' },
-              { value: '1', name: 'aaa' },
-              { value: '2', name: 'cccc' },
-              { value: '3', name: 'tytyty' },
+              { value: 'hhh', name: 'hhh' },
+              { value: 'aaa', name: 'aaa' },
+              { value: 'cccc', name: 'cccc' },
+              { value: 'tytyty', name: 'tytyty' },
           ],
       }
   },
